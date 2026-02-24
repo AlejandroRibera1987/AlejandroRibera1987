@@ -37,7 +37,7 @@ Busco seguir creciendo como desarrollador y aportar valor en cada línea de cód
 
 ### 📫 Contacto
 
-📧 **Email:** alejandroribera1987@example.com
+📧 **Email:** alejandroribera1987@gmail.com
 💼 **LinkedIn:** www.linkedin.com/in/alejandro-ribera-04583a121
 🌐 **Portafolio:** https://alejandroribera.vercel.app/
 
