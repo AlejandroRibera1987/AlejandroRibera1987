@@ -1,52 +1,93 @@
-<h1 align="center">👋 ¡Hola! Soy Alejandro Ribera</h1>
+<h1 align="center">👋 Hola, soy Alejandro Ribera</h1>
+<h3 align="center">💻 Desarrollador Web | UI/UX | Soluciones Digitales</h3>
 
-  💻 Apasionado por la tecnología, el desarrollo web y la creación de proyectos que hagan la diferencia.  
+<p align="center">
+  <a href="https://alejandroribera.vercel.app/" target="_blank">
+    🌐 Portfolio
+  </a> •
+  <a href="https://www.linkedin.com/in/alejandro-ribera-04583a121/" target="_blank">
+    💼 LinkedIn
+  </a> •
+  <a href="mailto:alejandroribera1987@gmail.com">
+    📧 Email
+  </a>
+</p>
 
 ---
 
 ### 🚀 Sobre mí
 
-Soy una persona curiosa y amante del mundo digital.  
-Me encanta aprender nuevas tecnologías, resolver problemas con código y convertir ideas en proyectos funcionales.  
-Busco seguir creciendo como desarrollador y aportar valor en cada línea de código que escribo.
+Soy desarrollador web con foco en crear **experiencias modernas, funcionales y orientadas a resultados**.  
+Trabajo combinando **diseño, desarrollo y lógica de negocio** para construir proyectos reales.
+
+Me interesa especialmente:
+- ⚡ Interfaces modernas y atractivas  
+- 🧠 Resolver problemas con código limpio  
+- 📈 Proyectos que generen impacto real  
 
 ---
 
-### 🧠 Tecnologías y lenguajes que manejo
+### 🧠 Stack Tecnológico
 
-- 🧩 **Frontend:** HTML5, CSS3, JavaScript, React  
-- ⚙️ **Backend:** PHP, MySQL  
-- ☕ **Otros lenguajes:** Java  
-- 🛠️ **Herramientas:** Git, GitHub, VS Code  
+#### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+</p>
+
+#### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=php,mysql" />
+</p>
+
+#### 🛠️ Herramientas
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+#### ☕ Otros
+<p>
+  <img src="https://skillicons.dev/icons?i=java" />
+</p>
 
 ---
 
-### 🌱 Actualmente aprendiendo
+### 🌱 Actualmente
 
-- Frameworks modernos de JavaScript  
-- Mejores prácticas de arquitectura de software  
-- Integración de backend con APIs RESTful  
+- 🔹 Mejorando arquitectura de proyectos
+- 🔹 Integraciones con APIs
+- 🔹 Desarrollo de proyectos reales (freelance)
 
 ---
 
-### 💡 Filosofía de desarrollo
+### 💼 Proyectos Destacados
 
-> “El código no solo debe funcionar, también debe ser claro, mantenible y elegante.”
+🚧 (Acá podés agregar links a tus proyectos principales)
+- 🔗 Consorcio Deheza
+- 🔗 Portfolio Personal
+- 🔗 Sistema de reservas / gestión
+
+---
+
+### 💡 Filosofía
+
+> “El código no solo debe funcionar, debe ser claro, mantenible y pensado para escalar.”
 
 ---
 
 ### 📫 Contacto
 
-📧 **Email:** alejandroribera1987@gmail.com
-💼 **LinkedIn:** www.linkedin.com/in/alejandro-ribera-04583a121
-🌐 **Portafolio:** https://alejandroribera.vercel.app/
+- 📧 alejandroribera1987@gmail.com  
+- 💼 https://www.linkedin.com/in/alejandro-ribera-04583a121/  
+- 🌐 https://alejandroribera.vercel.app/  
 
 ---
 
-### ⚡ Fun fact
+### ⚡ Bonus
 
-Siempre estoy explorando nuevas formas de usar la tecnología para crear, mejorar y sorprender 🚀
+🚀 Siempre explorando nuevas tecnologías y creando soluciones que marquen la diferencia.
 
 ---
 
-⭐ Si te gusta mi trabajo, ¡no dudes en seguirme o colaborar en mis proyectos!
+<p align="center">
+  ⭐ Si te interesa mi trabajo, ¡conectemos o colaboremos!
+</p>
