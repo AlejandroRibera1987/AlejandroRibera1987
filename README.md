@@ -55,16 +55,16 @@ Me interesa especialmente:
 
 - 🔹 Mejorando arquitectura de proyectos
 - 🔹 Integraciones con APIs
-- 🔹 Desarrollo de proyectos reales (freelance)
+- 🔹 Desarrollo de proyectos (freelance)
 
 ---
 
 ### 💼 Proyectos Destacados
 
 🚧 (Acá podés agregar links a tus proyectos principales)
-- 🔗 Consorcio Deheza
-- 🔗 Portfolio Personal
-- 🔗 Sistema de reservas / gestión
+- 🔗 [Consorcio Deheza](https://consorcio-deheza.vercel.app/)
+- 🔗 [Portfolio Fotografia](https://julicerimedo.vercel.app/)
+- 🔗 [Administración Suárez]https://administracion-suarez.vercel.app/
 
 ---
 
