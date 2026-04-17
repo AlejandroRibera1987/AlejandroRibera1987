@@ -64,7 +64,7 @@ Me interesa especialmente:
 🚧 (Acá podés agregar links a tus proyectos principales)
 - 🔗 [Consorcio Deheza](https://consorcio-deheza.vercel.app/)
 - 🔗 [Portfolio Fotografia](https://julicerimedo.vercel.app/)
-- 🔗 [Administración Suárez]https://administracion-suarez.vercel.app/
+- 🔗 [Administración Suárez](https://administracion-suarez.vercel.app/)
 
 ---
 
